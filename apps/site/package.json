@@ -70,7 +70,7 @@
     "remark-reading-time": "~2.0.1",
     "semver": "~7.7.1",
     "shiki": "~2.2.0",
-    "sval": "^0.5.2",
+    "sval": "^0.6.1",
     "tailwindcss": "~3.4.15",
     "unist-util-visit": "~5.0.0",
     "vfile": "~6.0.3",
